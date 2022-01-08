@@ -12,9 +12,12 @@ In this case study, I used EDA to understand how consumer attributes and loan at
 
 When a person applies for a loan, there are two types of decisions that could be taken by the company: 
 
-1. Loan accepted: If the company approves the loan, there are 3 possible scenarios described below: 
+1. Loan accepted: If the company approves the loan, there are 2 possible scenarios described below: 
+
 	Fully paid: Applicant has fully paid the loan (the principal and the interest rate) 
+	
 	Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'. 
 	  
 2. Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). 
+
 	Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
