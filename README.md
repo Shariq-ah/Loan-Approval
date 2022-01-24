@@ -5,7 +5,7 @@ A model that predict the user is eligible for loan or not
 Model:
 Multinomial Logistic Regression Model
 
-Accuracy : 98.25%
+Accuracy : 98.09%
 
 Technologies:
 Programming Language: Python
