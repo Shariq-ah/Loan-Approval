@@ -1,6 +1,6 @@
 # Loan-Approval Prediction
 
-A model that predict the user is eligible for loan or not 
+A logistic model that predicts whether or not a user will be approved for a loan. 
 
 Model:
 Multinomial Logistic Regression Model
