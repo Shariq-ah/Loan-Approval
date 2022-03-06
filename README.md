@@ -1,4 +1,4 @@
-# Loan-Approval
+# Loan-Approval Prediction
 
 A model that predict the user is eligible for loan or not 
 
